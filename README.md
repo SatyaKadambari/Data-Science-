@@ -1,4 +1,4 @@
-# Data-Science-
+# Basic Machine Learning Projects
 Data Science Projects.
 
  1. Company Attrition Prediction :
